@@ -1,0 +1,1 @@
+# GPT Crypto Bot\n\nBybit бот для автоматической торговли на Python.
